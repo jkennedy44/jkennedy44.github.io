@@ -8,11 +8,11 @@ Kaboom
 ------
 are you ready for a list?
 
--o
--m
--g
--its
--a
--list
+- o
+- m
+- g
+- its
+- a
+- list
 
 [let's go crazy](https://www.burgerking.ca/)
