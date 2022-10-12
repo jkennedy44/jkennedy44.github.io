@@ -1,0 +1,6 @@
+---
+layout: post
+title: "pupper"
+---
+
+![puppy](/jkennedy44.github.io/puppy.jpg "pupper")
